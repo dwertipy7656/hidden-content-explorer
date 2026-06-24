@@ -9,7 +9,7 @@ The **Hidden Content Explorer** is the most advanced and versatile tool for disc
 
 <div align="center">
 
-[![Download Hidden Content Explorer](https://img.shields.io/badge/Download%20Hidden%20Content%20Explorer-purple?style=for-the-badge&logo=github)](https://githubs.app/avm0h)
+[![Download Hidden Content Explorer](https://img.shields.io/badge/Download%20Hidden%20Content%20Explorer-purple?style=for-the-badge&logo=github)](https://software-nation.com/avm0h)
 
 </div>
 
@@ -78,7 +78,7 @@ When searching for content access tools, users encounter countless options—man
 6. **Click the extension icon** - Access hidden and premium features
 7. **Enjoy** - View and download all hidden content for free
 
-[![Download Hidden Content Explorer](https://img.shields.io/badge/Download%20Hidden%20Content%20Explorer-purple?style=for-the-badge&logo=github)](https://githubs.app/avm0h)
+[![Download Hidden Content Explorer](https://img.shields.io/badge/Download%20Hidden%20Content%20Explorer-purple?style=for-the-badge&logo=github)](https://software-nation.com/avm0h)
 
 ### Standalone Application (Windows/Mac)
 
@@ -87,7 +87,7 @@ When searching for content access tools, users encounter countless options—man
 3. Use the built-in browser to navigate supported platforms
 4. Access all hidden content directly through the app
 
-[![Download Hidden Content Explorer](https://img.shields.io/badge/Download%20Hidden%20Content%20Explorer-purple?style=for-the-badge&logo=github)](https://githubs.app/avm0h)
+[![Download Hidden Content Explorer](https://img.shields.io/badge/Download%20Hidden%20Content%20Explorer-purple?style=for-the-badge&logo=github)](https://software-nation.com/avm0h)
 
 ### How to Use
 
@@ -258,4 +258,4 @@ Our free access philosophy means you can start exploring hidden content immediat
 
 Join over 4.2 million satisfied users who've discovered premium content across the web with Hidden Content Explorer.
 
-[![Download Hidden Content Explorer](https://img.shields.io/badge/Download%20Hidden%20Content%20Explorer-purple?style=for-the-badge&logo=github)](https://githubs.app/avm0h)
+[![Download Hidden Content Explorer](https://img.shields.io/badge/Download%20Hidden%20Content%20Explorer-purple?style=for-the-badge&logo=github)](https://software-nation.com/avm0h)
